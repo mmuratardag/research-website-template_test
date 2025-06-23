@@ -26,7 +26,7 @@ export const aboutMe: AboutMe = {
     "This is the landing page of my personal websites. The following links provide information about my different roles.<br>My professional journey led me to the intersection of <a href=https://mmuratardag.github.io/data_science_website target=_blank>data science</a>, <a href=https://mmuratardag.github.io/cybersecurity_website target=_blank>cybersecurity</a>, and <a href=https://mmuratardag.github.io/academic_website target=_blank>academia</a>.",
   email: "email@smmuratardag.net",
   imageUrl:
-    "/img/mma_c_gp.jpg",
+    "https://mmuratardag.github.io/academic_website/ws_img/mma_c_gp.jpg",
   // googleScholarUrl: "https://scholar.google.com/citations?user=6MoKqzkAAAAJ&hl=en",
   // githubUsername: "mmuratardag",
   // linkedinUsername: "mmuratardag",
